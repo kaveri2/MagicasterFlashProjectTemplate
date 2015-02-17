@@ -1,6 +1,7 @@
 *.swf
 *.swc
 *-app.xml
+*Report.txt
  
 # ============ #
 # OS generated #
